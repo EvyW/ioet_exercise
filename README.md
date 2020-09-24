@@ -17,3 +17,10 @@ python master.py
 The program is going to ask you to provide the path to the data that you want to compute (make sure that the path is written inside quotation marks). You can use the exemplary data that comes in this repository. 
 
 ![alt text](https://github.com/EvyW/ioet_exercise/blob/master/docs/images/Imagen%202.png)
+
+Ready! you are going to see the salary that has to be paid to every employee
+
+4. For running the tests, you only have to use the following command:
+```
+python test.py
+```
