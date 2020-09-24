@@ -4,6 +4,14 @@ This is a program that computes the salary of employees according to specific ru
 ## Requirements
 Make sure that you have installed python (from 2.7 on)
 
+## Architecture 
+There are 3 main files:
+1. master.py which is the master file that has to be executed to run the program
+2. load_data.py which asks for the path to the data that will be computed and loads it in the right format
+3. compute_employees_salary.py which makes the computation of the salaries
+
+Another important file is test_py which contains the test cases 
+
 ## Getting started and execution
 1. Download this repository and make sure that the name of the folder is: ioet_exercise
 2. Open your terminal and go to ioet_exercise folder
@@ -24,3 +32,6 @@ Ready! you are going to see the salary that has to be paid to every employee
 ```
 python test.py
 ```
+
+## Approach 
+
