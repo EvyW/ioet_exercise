@@ -2,7 +2,7 @@
 This is a program that computes the salary of employees according to specific rules
 
 ## Requirements
-Make sure that you have installed python (from 2.7 on)
+Make sure that you have installed python 3
 
 ## Architecture 
 There are 3 main files:
@@ -20,7 +20,7 @@ Another important file is "test_py" which contains the test cases
 
 3. Run the program using the following command:
 ```
-python master.py
+python3 master.py
 ```
 The program is going to ask you to provide the path to the data that you want to compute (make sure that the path is written inside quotation marks). You can use the exemplary data that comes in this repository. 
 
@@ -32,8 +32,9 @@ Ready! you are going to see the salary that has to be paid to every employee. It
 
 4. For running the tests, you only have to use the following command:
 ```
-python test.py
+python3 test.py
 ```
+If everything goes well, you should get an "OK" at the end of the execution
 
 ## Approach 
 
