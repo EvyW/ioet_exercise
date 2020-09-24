@@ -46,6 +46,6 @@ This problem was solved mainly based on if-then rules that enforce the constrain
 
 Assumptions:
 - An employee can work an undefined number of hours in one day
-- An employee can start and finish at any time (along with one, two, or three shifts) during the day
+- An employee can start and finish at any time, any hour and minute (along with one, two, or three shifts) during the day
 - The employee works continuously during the day (e.g from 10:00 to 18:00, but not from 10:00 to 14:00 and later from 15:00 to 18:00)
 
